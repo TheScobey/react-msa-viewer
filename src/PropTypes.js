@@ -86,9 +86,9 @@ export const MSAPropTypes = {
 
 // TODO: separate individual properties into their components
 export const msaDefaultProps = {
-  width: 500,
-  height: 100,
-  tileWidth: 20,
-  tileHeight: 20,
-  colorScheme: "clustal",
+  width: 1000,
+  height: 400,
+  tileWidth: 30,
+  tileHeight: 30,
+  colorScheme: "zappo",
 };
